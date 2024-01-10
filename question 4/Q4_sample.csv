@@ -1,0 +1,19 @@
+SUPPLIER_CITY,SUPPLIER_NAME,ORDER_PERIOD,ORDER_REF,ORDER_LINE_AMOUNT,ORDER_TOTAL_AMOUNT,INVOICE_TOTAL_AMOUNT,ACTION
+ Vacoas,Digisay Co. Ltd.,2023-15,14, - ,"    400,120.00","    295,520.00",To follow up
+ Port Louis,Mottoway Corp.,2023-20,13, - ,"  5,819,625.00","  5,819,625.00",No Action
+ Curepipe,Pegasus Ltd,2023-16,12, - ,"    265,000.00","    241,220.00",No Action
+ Camp Hill,Lamboni Stat Inc.,2023-06,11, - ,"     43,200.00","     43,200.00",No Action
+ Savanne,Foxy Electronics,2023-03,10, - ,"    182,700.00","    182,700.00",No Action
+ Moka,Fireland Bros.,2023-18,09, - ,"     36,800.00","     22,500.00",No Action
+ Port Louis,Jinfix Computers,2023-05,08, - ,"     85,200.00","     85,200.00",No Action
+ Highlands,Safedest Taxi Services,2023-03,07, - ,"     26,700.00","     17,200.00",No Action
+ Pamplemousses,Emtello Ltd,2023-07,05, - ,"     21,000.00","     21,000.00",To follow up
+ Vacaoas,Stuffie Stationery,2023-16,06, - ,"    250,000.00","    235,000.00",No Action
+ Camp Hill,Lamboni Stat Inc.,2023-07,04-2,1200,"      2,000.00", - ,No Action
+ Camp Hill,Lamboni Stat Inc.,2023-07,04-1,2000,"      2,000.00", - ,No Action
+ Camp Hill,Lamboni Stat Inc.,2023-07,04-4,600,        600.00, - ,No Action
+ Camp Hill,Lamboni Stat Inc.,2023-07,04-3,3000,"      3,000.00", - ,No Action
+ Camp Hill,Lamboni Stat Inc.,2023-07,04, - ,"      6,800.00","      6,200.00",No Action
+ Vacoas,Digisay Co. Ltd.,2023-24,03, - ,"     57,300.00","     57,300.00",No Action
+ Port Louis,Mottoway Corp.,2023-10,02, - ,"    750,000.00","  1,947,000.00",To follow up
+ Curepipe,Pegasus 1212ltd,2023-03,01, - ,"     10,000.00","     10,000.00",No Action

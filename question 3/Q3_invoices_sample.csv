@@ -1,0 +1,51 @@
+INVOICE_ID,ORDER_ID,INVOICE_REFERENCE,INVOICE_DATE,INVOICE_STATUS,INVOICE_HOLD_REASON,INVOICE_AMOUNT,INVOICE_DESCRIPTION
+1,2,INV_PO001,28-FEB-23,Paid, - ,2500,Part payment for vehicle spare parts
+2,3,INV_PO001,28-FEB-23,Paid, - ,600,Part payment for vehicle spare parts
+3,4,INV_PO001,28-FEB-23,Paid, - ,2000,Part payment for vehicle spare parts
+4,5,INV_PO001,28-FEB-23,Paid, - ,800,Part payment for vehicle spare parts
+5,6,INV_PO001.1,04-APR-23,Paid, - ,3000,Final payment for vehicle spare parts
+6,7,INV_PO001.1,04-APR-23,Paid, - ,1100,Final payment for vehicle spare parts
+7,10,INV_PO002.3,05-AUG-23,Pending, - ,249000,Final payment for purchase of car
+8,11,INV_PO002.2,02-MAY-23,Paid, - ,300000,Part payment for purchase of car
+9,10,INV_PO002.1,01-MAR-23,Paid, - ,100000,Part payment for purchase of car
+10,11,INV_PO002.1,01-MAR-23,Paid, - ,100000,Part payment for purchase of car
+11,9,INV_PO002.3,05-AUG-23,Pending, - ,249000,Final payment for purchase of car
+12,11,INV_PO002.3,05-AUG-23,Pending, - ,249000,Final payment for purchase of car
+13,9,INV_PO002.2,02-MAY-23,Paid, - ,300000,Part payment for purchase of car
+14,10,INV_PO002.2,02-MAY-23,Paid, - ,300000,Part payment for purchase of car
+15,9,INV_PO002.1,01-MAR-23,Paid, - ,100000,Part payment for purchase of car
+16,13,INV_PO003.1,22-MAR-23,Paid, - ,22000,Purchase of screens.
+17,14,INV_PO003.1,22-MAR-23,Paid, - ,20300,Purchase of screens.
+18,15,INV_PO003.1,22-MAR-23,Paid, - ,5000,Purchase of screens.
+19,16,INV_PO003.2,15-MAY-23,Paid, - ,10000,Final payment for purchase of screens.
+20,18,INV_PO004,15-FEB-23,Paid, - ,2000,Payment for pen
+21,19,INV_PO004,15-FEB-23,Paid, - ,1200,Payment for pencil
+22,20,INV_PO004.1,20-MAR-23,Paid, - ,3000,Paper reams.
+23,23,INV_PO005.1,18-MAY-23,Pending,Damaged magazine,3000, - 
+24,24,INV_PO005.1,18-MAY-23,Paid, - ,5000, - 
+25,25,INV_PO005.2,22-JUN-23,Paid, - ,8000, - 
+26,26,INV_PO005.2,22-JUN-23,Paid, - ,5000, - 
+27,28,INV_PO006.2,18-APR-23,Paid, - ,4300,Second delivery
+28,33,INV_PO006.5,27-JUL-23,Paid, - ,70800,Fifth delivery
+29,32,INV_PO006.6,16-AUG-23,Paid, - ,60000,Sixth delivery
+30,31,INV_PO006.4,17-JUN-23,Paid, - ,50200,Fourth delivery
+31,30,INV_PO006.3,21-MAY-23,Paid, - ,25400,Third delivery
+32,29,INV_PO006.1,22-MAR-23,Paid, - ,24300,First delivery
+33,35,INV_PO007.1,30-JUL-23,Paid, - ,4500,Trip for Saunders
+34,36,INV_PO007.1,30-JUL-23,Paid, - ,4200,Trip for Mike
+35,38,INV_PO007.1,30-JUL-23,Paid, - ,4800,Trip for Shobnee
+36,39,INV_PO007.1,30-JUL-23,Paid, - ,3700,Trip for Mikaen
+37,41,INV_PO008.2,28-AUG-23,Paid, - ,15000,Computer oders invoice - 2
+38,41,INV_PO008.1,02-AUG-23,Paid, - ,15250,Computer oders invoice - 1
+39,42,INV_PO008.2,28-AUG-23,Paid, - ,6950,Vehicle spare parts - Part Pay 2
+40,43,INV_PO008.2,28-AUG-23,Paid, - ,23000,Computer oders invoice - 2
+41,43,INV_PO008.1,02-AUG-23,Paid, - ,25000,Computer oders invoice - 1
+42,45,INV_PO009.1,24-AUG-23,Paid, - ,22500,Security vests
+43,48,INV_PO010.1,15-AUG-23,Paid, - ,98000,Electronic spare parts - Inv 1
+44,47,INV_PO010.1,15-AUG-23,Paid, - ,17500,Electronic spare parts - Inv 1
+45,50,INV_PO010.1,02-SEP-23,Paid, - ,28000,Electronic spare parts - Inv 2
+46,49,INV_PO010.1,02-SEP-23,Paid, - ,18200,Electronic spare parts - Inv 2
+47,51,INV_PO010.1,15-AUG-23,Paid, - ,21000,Electronic spare parts - Inv 1
+48,53,INV_PO011.1,18-SEP-23,Paid, - ,3200,Stationeries
+49,54,INV_PO011.1,18-SEP-23,Paid, - ,40000,Stationeries
+50,56,INV_PO012.1,07-AUG-23,Paid, - ,3450,Vehicle spare parts - Part Pay 1

@@ -1,0 +1,51 @@
+ORDER_ID,ORDER_REF,ORDER_DATE,SUPPLIER_ID,ORDER_TOTAL_AMOUNT,ORDER_LINE_AMOUNT,ORDER_DESCRIPTION,ORDER_STATUS
+1,PO001,03-JAN-23,8,10000, - ,Vehicle Spare parts,Closed
+2,PO001-1,03-JAN-23,9, - ,2500,Back lights,Received
+3,PO001-2,03-JAN-23,9, - ,600,Spark plug,Received
+4,PO001-3,03-JAN-23,9, - ,2000,Fuel filter,Received
+5,PO001-4,03-JAN-23,9, - ,800,Air filter,Received
+6,PO001-5,03-JAN-23,9, - ,3000,Brake disc,Received
+7,PO001-6,03-JAN-23,9, - ,1100,Axle,Received
+8,PO002,10-JAN-23,7,750000, - ,Purchase of Car,Open
+9,PO002-1,10-JAN-23,7, - ,100000,Purchase of Car Model X,Received
+10,PO002-1,10-JAN-23,7, - ,249000,Purchase of Car Model X,Received
+11,PO002-1,10-JAN-23,7, - ,300000,Purchase of Car Model X,Received
+12,PO003,24-JAN-23,1,57300, - ,Computer screens,Closed
+13,PO003-1,24-JAN-23,1, - ,22000,Screens 22"",Received
+14,PO003-2,24-JAN-23,1, - ,20300,Screens 35"",Received
+15,PO003-3,24-JAN-23,1, - ,5000,Screens 15"",Received
+16,PO003-4,24-JAN-23,1, - ,10000,Screens 35"",Received
+17,PO004,07-FEB-23,6,6800, - ,Purchase of Stationeries,Closed
+18,PO004-1,07-FEB-23,6,2000,2000,Pen Parker blue,Received
+19,PO004-2,07-FEB-23,6,2000,1200,Pencil HB boxes,Received
+20,PO004-3,07-FEB-23,6,3000,3000,Paper reams,Received
+21,PO004-4,07-FEB-23,6,600,600,Clips boxes,Cancelled
+22,PO005,07-APR-23,2,21000, - ,International Magazines,Closed
+23,PO005-1,07-APR-23,2, - ,3000,National geo nature,Received
+24,PO005-2,07-APR-23,2, - ,5000,Science world,Received
+25,PO005-3,07-APR-23,2, - ,8000,Science world,Received
+26,PO005-4,07-APR-23,2, - ,5000,Discovery mag,Received
+27,PO006,16-FEB-23,11,250000, - ,Stationery orders,Open
+28,PO006-1,16-FEB-23,11, - ,4300,Packet 2,Received
+29,PO006-1,16-FEB-23,11, - ,24300,Packet 1,Received
+30,PO006-1,16-FEB-23,11, - ,25400,Packet 3,Received
+31,PO006-1,16-FEB-23,11, - ,50200,Packet 4,Received
+32,PO006-1,16-FEB-23,11, - ,60000,Packet 6,Received
+33,PO006-1,16-FEB-23,11, - ,70800,Packet 5,Received
+34,PO007,03-JUN-23,10,26700, - ,Taxi services fees,Closed
+35,PO007-1,03-JUN-23,10, - ,4500,Employee journey taxi service,Received
+36,PO007-2,03-JUN-23,10, - ,4200,Employee journey taxi service,Received
+37,PO007-3,03-JUN-23,10, - ,5200,Employee journey taxi service,Cancelled
+38,PO007-4,03-JUN-23,10, - ,4800,Employee journey taxi service,Received
+39,PO007-5,03-JUN-23,10, - ,3700,Employee journey taxi service,Received
+40,PO008,05-JUN-23,5,85200, - ,Orders of computer spare parts,Open
+41,PO008-1,05-JUN-23,5, - ,30250,10 HDDs 3TB,Received
+42,PO008-2,05-JUN-23,5, - ,6950,Seagate Barracuda 2TB SATA Hard Drive,Received
+43,PO008-2,05-JUN-23,5, - ,48000,10 Motherboard Asus PRIME Z270-A,Received
+44,PO009,18-JUN-23,3,36800, - ,Security vests,Open
+45,PO009-1,18-JUN-23,3, - ,22500,Security vests for firewardens,Received
+46,PO010,03-JUL-23,4,182700, - ,Electronic spare parts,Closed
+47,PO010-1,03-JUL-23,4, - ,17500,Air Conditioner Fan Capacitor x 1000,Received
+48,PO010-1,03-JUL-23,4, - ,98000,Electronic Component Lead 2000 Kgs,Received
+49,PO010-2,03-JUL-23,4, - ,18200,Starter capacitor x 2000,Received
+50,PO010-2,03-JUL-23,4, - ,28000,Aluminium LED PCB Assemblies x 100,Received
